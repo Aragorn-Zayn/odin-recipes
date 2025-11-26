@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Burrito</title>
+    </head>
+    <body>
+        <strong><a href="../index.html">Home</a></strong>
+        <h1>Burrito</h1>
+        <img src="pic2.jpg" alt="Burrito" height="450" width="600">
+        <h3>Decsription</h3>
+        <p>These black bean and rice burritos are easy to expand upon — add bacon, avocado, pico de gallo, or whatever you want. Add lettuce and sour cream, then sprinkle each burrito with Cheddar and Monterey Jack. Wrap, eat, and be happy.</p>
+        <h3>Ingredients</h3>
+        <ul>
+            <li>2 cups water</li>
+            <li>1 cup white rice</li>
+            <li>2 tablespoons butter</li>
+            <li>½ sweet yellow onion, chopped</li>
+            <li>2 cloves garlic, minced</li>
+            <li>1 tablespoon chili powder, or more to taste</li>
+            <li>1 tablespoon paprika</li>
+            <li>1 teaspoon ground cumin</li>
+            <li>1 teaspoon freshly cracked black pepper</li>
+            <li>1 teaspoon cayenne pepper</li>
+            <li>¼ teaspoon ground cloves</li>
+            <li>¼ teaspoon freshly ground nutmeg</li>
+            <li>1 (15 ounce) can black beans, drained</li>
+            <li>1 (8 ounce) can tomato sauce</li>
+            <li>2 tablespoons chopped fresh cilantro</li>
+            <li>8 large flour tortillas, warmed</li>
+        </ul>
+        <h3>Steps</h3>
+        <ol>
+            <li>Bring water and rice to a boil in a saucepan over high heat. Reduce the heat to medium-low, cover, and simmer until rice is tender and liquid has been absorbed, 20 to 25 minutes.</li>
+            <li>Meanwhile, melt 1 tablespoon butter in a large skillet over medium heat. Cook and stir onion and garlic in melted butter until onion is translucent, 5 to 6 minutes. Add remaining 1 tablespoon butter and let melt. Stir in chili powder, paprika, cumin, black pepper, cayenne pepper, cloves, and nutmeg; cook, stirring often, for 2 more minutes.</li>
+            <li>Stir in black beans and tomato sauce, then bring to a simmer. Reduce the heat to low and cook until flavors blend, about 10 minutes. Remove from the heat and stir in cilantro. Let sit until cilantro wilts, about 5 minutes.</li>
+            <li>Fill warm tortillas with bean mixture and rice.</li>
+        </ol>
+    </body>
+</html>
+
+
+
