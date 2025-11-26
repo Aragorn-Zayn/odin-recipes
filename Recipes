@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Odin-Project-One</title>
+    </head>
+    <body>
+        <h1>Odin Recipes</h1>
+        <h3><a href="recipes/saag.html">Saag</a></h3>
+        <h3><a href="recipes/biryani.html">Biryani</a></h3>
+        <h3><a href="recipes/burrito.html">Burrito</a></h3>
+    </body>
+</html>
