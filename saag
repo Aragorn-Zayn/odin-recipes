@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Saag</title>
+    </head>
+    <body>
+        <strong><a href="../index.html">Home</a></strong>
+        <h1>Saag</h1>
+        <img src="pic.jpg" alt="Saag-and-Makki-Roti" height="450" width="600">
+        <h3>Decsription</h3>
+        <p>Saag is a traditional food prepared in winters in the region of Punjab, Pakistan. Its a plant based diet which is called 'Mustard' in English and 'Senf' in German. Its preparation involves a lot of effort. Saag is usually served with 'Rotis' of wheat or maize. It always leaves a memorable mark on its diners and people remember the delicate flavour for a long time</p>
+        <h3>Ingredients</h3>
+        <ul>
+            <li>Saag kay Pattay-Mustard Leaves</li>
+            <li>Oil</li>
+            <li>salt</li>
+            <li>Black and Red Pepper</li>
+            <li>Lots of effort</li>
+        </ul>
+        <h3>Steps</h3>
+        <ol>
+            <li>Get the Mustard leaves and wash them well and keep them in water for half an hour</li>
+            <li>Cut all the leaves in a very short form</li>
+            <li>Add oil salt, and pepper in the pot or 'handi'</li>
+            <li>Put all the mustard leaves in the pot and cook them for at least an hour</li>
+            <li>After an hour taste the dish. If it tastes like saag, it is 'Saag'</li>
+            <li>Enjoy</li>
+        </ol>
+    </body>
+</html>
+
